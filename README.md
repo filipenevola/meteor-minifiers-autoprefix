@@ -17,3 +17,6 @@ Example:
     "autoprefixer" : { "browsers": ["last 2 versions"] }
 }
 ```
+
+## Version
+The version will be always the same as [standard-minifier-css](https://github.com/meteor/meteor/blob/master/packages/standard-minifier-css) with a path number
